@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UserManagement</string>
+    <string name="database_name">database.db</string>
+</resources>
